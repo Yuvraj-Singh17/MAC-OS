@@ -2,6 +2,9 @@ import { useState } from 'react'
 import './app.scss'
 import Dock from './components/dock'
 import Nav from './components/Nav'
+import Github from './components/windows/Github'
+import Note from './components/windows/Note'
+import Resume from './components/windows/Resume'
 
 function App() {
 
@@ -9,6 +12,10 @@ function App() {
     <main>
       <Dock />
       <Nav />
+
+      <Github />
+      <Note />
+      <Resume />
     </main>
   )
 }
