@@ -21,4 +21,7 @@ main{
     background-image: url(/mac-os_wallpaper.jpg);
     background-size: cover;
     background-position: center;
+
+    overflow: hidden;
+    position: relative;
 }
