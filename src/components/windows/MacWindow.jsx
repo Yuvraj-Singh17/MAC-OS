@@ -20,7 +20,7 @@ const MacWindow = ({ children, width = "40vw", height = "40vh", windowName, setW
                         <div className="dot green"></div>
                     </div>
 
-                    <div className="title"><p>ankurprajapti - zsh</p></div>
+                    <div className="title"><p>yuvrajsingh - zsh</p></div>
 
                 </div>
                 <div className="main-content">
